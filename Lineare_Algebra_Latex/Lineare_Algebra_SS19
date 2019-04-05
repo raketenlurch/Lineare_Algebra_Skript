@@ -1,0 +1,24 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{ngerman}
+\usepackage{amsmath}
+%opening
+\title{Lineare Algebra 1}
+\author{}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Skript zur Vorlesung Lineare Algebra 1 im Sommersemester 2019.
+\end{abstract}
+
+\section{Einführung}
+Die Algebra ist ein Teilgebiet der Mathematik. Sie beschäftigt sich mit speziellen Strukturen wie Gruppen, Ringen oder Körpern und deren Verknüpfungen. Ein fundamentales Problem ist das Lösen von algebraischen Gleichnungen z.B.
+
+\begin{displaymath}
+a*x²+b*x+c=0
+\end{displaymath}
+
+\end{document}
